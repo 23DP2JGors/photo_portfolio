@@ -1,4 +1,4 @@
-# 📷 Monovision Studio
+# Monovision Studio
 
 **Monovision Studio** is a professional photography portfolio focused on minimalism, elegance, and the power of visual storytelling.
 
@@ -6,14 +6,14 @@
 
 ---
 
-## ✨ Our Services
+## Our Services
 *   **Portrait Photography:** Individual, Family, Corporate, and Creative sessions.
 *   **Commercial Photography:** Specialized in Product, Fashion, and Advertising.
 *   **Photo Editing & Retouching:** Professional color correction, skin retouching, and background removal.
 
 ---
 
-## 🚀 How to View
+## How to View
 
 This project is built using pure web technologies and does not require any complex installation.
 
@@ -24,10 +24,10 @@ This project is built using pure web technologies and does not require any compl
 
 ---
 
-## 🛠 Tech Stack
-*   **HTML5** — Semantic structure.
-*   **CSS3** — Elegant and responsive styling.
-*   **Minimalist Design** — Focused on high-quality visual impact.
+## Tech Stack
+*   **HTML5**
+*   **CSS3**
+*   **Minimalist Design**
 
 ---
 *Capturing elegance through the lens of minimalism.*
